@@ -1,5 +1,4 @@
-#It's me, Mikhail
-- 👋 Hi, I’m @mikhaildewey
+# ✨It's me, Mikhail
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css, js
 - 💞️ I’m looking to collaborate on websites
