@@ -1,3 +1,4 @@
+![logo](https://github.com/mikhaildewey/mikhaildewey/blob/main/mkd.png?raw=true)
 # ✨It's me, Mikhail
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css, js
